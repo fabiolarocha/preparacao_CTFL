@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório! Aqui você encontrará todas as fichas de estudo que venho construindo durante minha jornada de 120 dias de preparação para a certificação **Certified Tester Foundation Level (CTFL)**.
 
-Início: 20 de janeiro de 2025.
+Início: 20 de janeiro de 2025.<br>
 Fim: 19 de maio de 2025.
 
 
