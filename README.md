@@ -1,4 +1,4 @@
-# 📚 120 Dias para a Certificação CTFL
+# 📚 120 Dias de preparação para a CTFL
 
 Bem-vindo ao meu repositório! Aqui você encontrará todas as fichas de estudo que venho construindo durante minha jornada de 120 dias de preparação para a certificação **Certified Tester Foundation Level (CTFL)**.
 
